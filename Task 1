@@ -1,0 +1,20 @@
+# Task 1 - Foundations of Cybersecurity
+
+## Tools Used
+- VirtualBox
+- Kali Linux
+- Wireshark
+
+## What I Did
+- Installed VirtualBox on Windows
+- Set up Kali Linux as a virtual machine
+- Opened Wireshark and performed live packet capture on eth0 interface
+- Captured live network traffic by browsing the web inside Kali
+
+## Linux Cheat Sheet
+- cd = change directory
+- ls = list files
+- pwd = show current location
+- ifconfig = show network info
+- ping = test connection
+- netstat = show network connections
