@@ -4,17 +4,31 @@
 - VirtualBox
 - Kali Linux
 - Wireshark
+- Nmap
+- OpenSSL
 
 ## What I Did
 - Installed VirtualBox on Windows
 - Set up Kali Linux as a virtual machine
-- Opened Wireshark and performed live packet capture on eth0 interface
-- Captured live network traffic by browsing the web inside Kali
+- Practiced Linux commands in terminal
+- Performed Nmap network scan
+- Captured live network traffic using Wireshark
+- Encrypted and decrypted a file using AES-256 OpenSSL
 
 ## Linux Cheat Sheet
+- pwd = shows current directory
+- ls = lists files and folders
 - cd = change directory
-- ls = list files
-- pwd = show current location
-- ifconfig = show network info
-- ping = test connection
-- netstat = show network connections
+- ifconfig = shows network info and IP address
+- ping = tests connection to a website
+- netstat = shows active network connections
+- traceroute = shows path data takes to reach destination
+- nmap = scans a device for open ports
+
+## Key Concepts Learned
+- CIA Triad: Confidentiality, Integrity, Availability
+- Threat Types: Phishing, Malware, DDoS, SQL Injection, Ransomware
+- Attack Vectors: Social Engineering, Wireless Attacks, Insider Threats
+- Symmetric Encryption using AES-256
+- Network scanning and reconnaissance using Nmap
+- Packet capture and analysis using Wireshark
